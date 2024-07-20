@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Tom-the-Human.
-- 👀 I’m interested in making apps and games.
-- 🌱 I’m currently learning Java, front-end web dev, and game dev.
-- 💞️ I’m looking to collaborate on beginner game dev projects in any framework.
-- 📫 How to reach me ... for now, just go through the contact link on my placeholder website: www.tomhodges.work
+- 👀 I’m interested in doing good in the world through the power of software.
+- 🌱 I’m currently learning <s>Java, front-end web dev, and game dev</s> Python.
+- 💞️ I’m looking to collaborate with other Launch School students on the Python track.
+- 📫 How to reach me ... for now, just go through the contact link on my placeholder website: www.tomhodges.work - beware, it is UGLY and NEGLECTED.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm currently a business owner, but looking for a career change into software development...
+- ⚡ Fun fact: My corn patch is nearly 10 feet tall! No, that's not a euphamism, I'm a gardener :)
 
 <!---
 Tom-the-Human/Tom-the-Human is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
